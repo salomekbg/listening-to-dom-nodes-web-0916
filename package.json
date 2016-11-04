@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+ssh://git@github.com/learn-co-curriculum/listening-to-nodes.git"
   },
+  "scripts": {
+    "test": "mocha"
+  },
   "keywords": [
     "javascript",
     "flatiron",
